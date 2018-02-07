@@ -1,0 +1,250 @@
+AI Books:
+http://artint.info/2e/html/ArtInt2e.html --Artificial Intelligence: Foundations of Computational Agents,  2nd Edition
+https://www.zabaras.com/statisticalcomputing -- Baysian Statistical Computing for Scientists and Engineers
+https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf  --Speech and Language Processing, 3rd Edition  stanford
+http://www.mujoco.org/book/index.html  --Modeling, Simulation and Visualization of Multi-Joint Dynamics with Contact
+https://arxiv.org/pdf/1801.05894v1.pdf  --Deep Learning: An Introduction for Applied Mathematicians
+http://ndres.me/kaggle-past-solutions/  --Kaggle competition solutions
+http://norvig.com/21-days.html#answers --programming tips
+https://web.stanford.edu/~jurafsky/slp3/ --Stanford speech and language processing
+https://github.com/fchollet/deep-learning-with-python-notebooks  -- Deep learning Python notebooks
+https://github.com/fchollet/keras/blob
+http://shop.oreilly.com/product/0636920052289.do
+https://github.com/ageron/handson-ml -- pretty good Python notebooks
+
+AI classes & tutorial:
+https://web.stanford.edu/class/cs20si/syllabus.html  --TensorFlow for Deep Learning
+https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V --nonlinear dynamics and chaos.
+--It closely follows Prof. Strogatz's book, "Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering."
+https://web.stanford.edu/class/cs20si/syllabus.html --CS 20: Tensorflow for Deep Learning Research
+https://google.github.io/seq2seq/nmt/ -- google tutorial on seq2seq
+http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-6-LSTM.ipynb --online course tensorflow code
+http://cs224d.stanford.edu/syllabus.html
+http://web.stanford.edu/class/cs224n/syllabus.html
+https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6 -- manning 224N
+https://saturn.jpl.nasa.gov/resources/7747/ -- NLP introduction book manning
+https://github.com/hankcs/CS224n --assignment
+https://github.com/stanfordnlp/cs224n-winter17-notes --cs224 notes
+http://cs231n.github.io  --cs231n
+
+Awesome GitHub pages & blogs & software:
+https://github.com/dennybritz/deeplearning-papernotes -- all papers
+https://github.com/keon   -- awesome NLP
+https://github.com/openai/generating-reviews-discovering-sentiment  -- Generating Reviews and Discovering Sentiment
+http://bit.ly/2FoqJQy -- blog UI design image & The network converts the image into HTML markup and renders it
+http://bit.ly/2mkkWDZ -- code
+https://deepmind.github.io/sonnet/ --Sonnet
+https://github.com/dmlc/xgboost/tree/master/demo --XGBoost
+https://github.com/Microsoft/LightGBM  --LightGBM
+https://distill.pub -- visualization
+https://news.ycombinator.com/item?id=16104868 --nlp resources
+http://www.intellify.us/highlights-from-nips-2017-and-what-it-means-for-your-ai-education/ --Highlights From NIPS 2017 And What It Means For Your AI Education
+https://www.kaggle.com/getting-started/47096#post271139 --free google GPU
+https://github.com/tdpetrou -- panda notebook & interview questions; Data Science python
+https://tryolabs.com/blog/2017/12/19/top-10-python-libraries-of-2017/  --top 10 Python library
+https://github.com/jborchma/amznrevs/blob/master/review_classifier.py
+http://www.cnblogs.com/edwardbi/tag/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/
+http://www.cnblogs.com/edwardbi/p/5598931.html  //chinese CNN
+https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118150923 //udacity deep learning class
+http://colah.github.io/posts/2014-07-Conv-Nets-Modular/ //colah blog with CNN explained
+https://www.kaggle.com/liwste/digit-recognizer/simple-deep-mlp-with-keras/run/2650
+http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html?showComment=1391023266211#c8758720086795711595 //udacity homework results
+http://deeplearning.net
+http://www.kdnuggets.com/2016/10/deep-learning-research-review-generative-adversarial-networks.html
+http://deeppart.io
+https://github.com/wlin12/wang2vec/  --word2vec new version
+http://www.kdnuggets.com/2017/03/top-reddit-machine-learning-posts-february.html --deep learning resources
+https://www.youtube.com/watch?v=LqLyrl-agOw&feature=youtu.be  --tensor flow dev 2017
+https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035 --resnet
+https://medium.com/@ManishChablani
+https://t.co/VyGhgo2icK
+https://github.com/Smerity
+http://bair.berkeley.edu/blog/  --Berkeley
+http://www.inference.vc --inference
+https://www.reddit.com/r/MachineLearning/comments/7mjxl4/d_vote_for_best_of_machine_learning_for_2017/ --reddit
+https://towardsdatascience.com/building-a-bayesian-deep-learning-classifier-ece1845bc09   --bayesian-deep-learning-classifier
+http://mlg.eng.cam.ac.uk/yarin/blog_2248.html --Uncertainty in Deep Learning + bayesian
+https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7 --30-amazing-machine-learning-projects
+https://github.com/dmlc --distributed ML community
+http://colah.github.io/  -- goog tutorial on deep learning
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/ --RNN
+http://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf -- one shot learning
+https://github.com/philipperemy/keras-visualize-activations  -- activation for specific layer
+https://arxiv.org/pdf/1711.02085.pdf --NEURAL SPEED READING VIA SKIM-RNN
+http://kbullaughey.github.io/lstm-play/2017/10/27/voice-loop-summary.html --Summary of Facebook Voice Loop paper
+https://github.com/fferroni --Deep embedding clustering
+https://medium.com/@ManishChablani/latest
+https://www.zocdoc.com/about/blog/tech/making-sense-of-insurance-cards-using-deep-learning/  -- zocdoc application
+https://hanxiao.github.io/  -- tensorflow tips
+https://www.kdnuggets.com/2017/11/top-10-videos-deep-learning-python.html -- top 10 deep learning videos
+https://julialang.org/blog/2017/12/ml&pl --Julia
+https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/  -- turning design mockups into code
+https://www.kdnuggets.com/2017/08/interview-bryan-van-de-ven-bokeh.html -- with github code and data visualization
+https://github.com/tdpetrou/Data-Science-in-Two-Minutes/blob/master/Machine%20Learning.md
+https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf?  -- FB ML platform
+https://medium.com/@wayne.noxchi/fadl2-l8-neural-artistic-style-transfer-a2e6780ab17b -- pic transformation details
+
+
+NLP
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/  -- concepts
+https://github.com/farizrahman4u/seq2seq  -- code seq2seq
+https://github.com/tensorflow/tensor2tensor --code tensor2tensor
+https://github.com/farizrahman4u/recurrentshop/tree/master/examples -- code recurrentshop query reduction network
+https://arxiv.org/pdf/1506.06726.pdf -- Skip-Thought Vectors
+https://arxiv.org/pdf/1406.1078.pdf -- Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation
+https://arxiv.org/pdf/1706.03762.pdf -- Attention Is All You Need
+https://arxiv.org/pdf/1409.0473.pdf -- NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
+https://arxiv.org/pdf/1704.01444.pdf -- Learning to Generate Reviews and Discovering Sentiment
+https://arxiv.org/pdf/1704.04368.pdf -- Get To The Point: Summarization with Pointer-Generator Networks
+https://arxiv.org/pdf/1605.07683.pdf -- LEARNING END-TO-END GOAL-ORIENTED DIALOG
+https://arxiv.org/pdf/1606.04582.pdf -- QUERY-REDUCTION NETWORKS FOR QUESTION ANSWERING
+http://www.cs.utoronto.ca/~rsalakhu/papers/semantic_final.pdf -- Semantic Hashing
+https://gist.github.com/mbollmann/ccc735366221e4dba9f89d2aab86da1e -- keras implementation of attention
+https://github.com/fchollet/keras/issues/4962 -- keras implementation of attention discussion
+https://talbaumel.github.io/attention/ -- attention tutorial
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/legacy_seq2seq/python/ops/seq2seq.py  -seq2seq code
+https://github.com/iwyoo/LSTM-autoencoder/blob/master/test.py --LSTM-autoencoder
+https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767  --RNN tensorflow tutorial
+https://github.com/JayParks/tf-seq2seq --seq2seq tensorflow code
+https://github.com/ematvey/tensorflow-seq2seq-tutorials/blob/master/1-seq2seq.ipynb --seq2seq tutorial
+https://github.com/random-forests/tensorflow-workshop -- tensorflow-workshop
+http://n-s-f.github.io/2017/07/10/rnn-tensorflow.html -- hierarchical LSTM
+http://www.kdnuggets.com/2017/09/win-kaggle-nlp-not-expert.html. -- Quora competition
+https://www.kaggle.com/rethfro/1d-cnn-single-model-score-0-14-0-16-or-0-23 -- CNN 1D
+http://www.kdnuggets.com/2017/09/datacamp-keras-cheat-sheet-deep-learning-python.html
+https://arxiv.org/pdf/1610.03017.pdf --Fully Character-Level Neural Machine Translation without Explicit Segmentation
+https://github.com/nyu-dl/dl4mt-c2c -- Python Code
+https://arxiv.org/pdf/1508.00021.pdf -- Artificial neural networks applied to taxi destination prediction
+https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i -- Kaggle projection
+http://web.engr.illinois.edu/~hanj/cs512/slides/3-Textmining_Part1.pdf -- Phrase mining
+https://arxiv.org/pdf/1703.01619.pdf --Neural Machine Translation and Sequence-to-sequence Models: A Tutorial
+https://github.com/marcotcr/anchor --Code for "High-Precision Model-Agnostic Explanations" paper
+https://github.com/clulab/processors  --Odin github stanford NLP wrapper
+https://blog.goodcover.com/information-extraction-in-scala-with-odin-nlp-nlu-9ce3239f7251 --Odin blog
+https://stackoverflow.com/questions/10401076/difference-between-constituency-parser-and-dependency-parser -- Constituency parser and dependency parser
+
+Tensorflow coding
+https://github.com/wagamamaz/tensorflow-tutorial -- all tensorflow latest code samples
+https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf --tensorflow introduction
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/mnist.py --sparse_softmax_cross_entropy_with_logits
+https://stackoverflow.com/questions/37312421/tensorflow-whats-the-difference-between-sparse-softmax-cross-entropy-with-logi
+https://stackoverflow.com/questions/34642595/tensorflow-strides-argument --strides definition
+https://medium.com/@mr.acle/exporting-deep-learning-models-from-keras-to-tensorflow-serving-  --keras to tensorflow serving
+https://stackoverflow.com/questions/40808772/tensorflow-top-n-values-in-tensor -- top k output
+http://theorangeduck.com/page/neural-network-not-working -- troubleshooting
+https://github.com/n-s-f/hierarchical-rnn  -- hierarchical-rnn
+http://www.kdnuggets.com/2017/09/top-10-videos-machine-learning-finance.html -- ML video in Finance
+https://docs.google.com/presentation/d/16kHNtQslt-yuJ3w8GIx-eEH6t_AvFeQOchqGRFpAD7U/edit#slide=id.p --tensorflow data api
+https://stackoverflow.com/questions/35552674/how-to-use-event-by-event-weights-in-tensorflow -- how to add sample weights
+https://www.tensorflow.org/api_guides/python/contrib.losses  -- loss function with sample weights
+https://stackoverflow.com/questions/35155655/loss-function-for-class-imbalanced-binary-classifier-in-tensor-flow
+https://github.com/ppwwyyxx/tensorpack --tensorpack
+https://github.com/vahidk/EffectiveTensorflow  --effective tensorflow
+https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html  -- tensorflow 1.4 features
+http://www.michaelburge.us/2017/07/18/how-to-use-argmax-in-tensorflow.html --tf.gather
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/learn -- tensorflow examples
+https://github.com/tensorflow/nmt/tree/master/nmt --nmt
+https://stackoverflow.com/questions/36764791/in-tensorflow-how-to-use-tf-gather-for-the-last-dimension --tf.gather
+https://github.com/tensorflow/nmt#attention-wrapper-api  -- nmt attention
+http://web.stanford.edu/class/cs20si/lectures/notes_09.pdf --tensorflow batch input
+https://github.com/tensorflow/tensorflow/issues/11157  --tensorflow translate deepcopy bug
+https://lan2720.github.io/2017/03/10/tensorflow%E7%9A%84legacy-seq2seq/  --tensorflow legacy-seq2seq api in Chinese
+https://towardsdatascience.com/how-to-do-text-classification-using-tensorflow-word-embeddings-and-cnn-edae13b3e575 --new vocab
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/learn/python/learn/preprocessing/categorical_vocabulary.py --tf vocab_size
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/learn/python/learn/preprocessing/text.py
+https://github.com/avvo/cnn-classifier/blob/master/prepare.py -- avvo vocab
+https://github.com/ilivans/tf-rnn-attention/blob/master/train.py --rnn attention (simple version)
+https://medium.com/onfido-tech/higher-level-apis-in-tensorflow-67bfb602e6c0 -- rnn, input, high level tf api
+https://r2rt.com/recurrent-neural-networks-in-tensorflow-iii-variable-length-sequences.html -- rnn, input, tensorflow variable length sequence
+https://towardsdatascience.com/text-summarization-with-amazon-reviews-41801c2210b -- blog text summarization amazon review
+https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews/blob/master/summarize_reviews.ipynb --code text summarization amazon review
+https://github.com/wliu40/Deep-Learning-Udacity  -- Udacity deep learning nano course
+https://thehive.ai/blog/simple-ml-serving --Step-by-step Guide to Deploying Deep Learning Models
+https://github.com/alexander-rakhlin/ICIAR2018 --
+https://www.biorxiv.org/content/biorxiv/early/2018/02/05/259911.full.pdf --cancer image DL contest
+
+Pytorch
+https://github.com/DSKSD/DeepNLP-models-Pytorch -- DeepNLP cs224n pytorch projects  *****
+https://github.com/vinhkhuc/PyTorch-Mini-Tutorials
+https://github.com/jcjohnson/pytorch-examples  -- pytorch examples
+https://medium.com/@ilblackdragon/pytorch-dynamic-batching-f4df3dbe09ef  -- dynamic batching pytorch
+https://stackoverflow.com/questions/47165079/how-to-train-a-simple-linear-regression-model-with-sgd-in-pytorch-successfully
+https://medium.com/@radekosmulski/a-practitioners-guide-to-pytorch-1d0f6a238040 --pytorch variable
+https://github.com/dasguptar/treelstm.pytorch  -- tree LSTM pytorch
+https://github.com/zackchase/mxnet-the-straight-dope/blob/master/chapter09_natural-language-processing/tree-lstm.ipynb  --mxnet tree LSTM
+https://github.com/DSKSD/DeepNLP-models-Pytorch
+https://nbviewer.jupyter.org/github/DSKSD/DeepNLP-models-Pytorch/blob/master/notebooks/07.Neural-Machine-Translation-with-Attention.ipynb -- advanced
+https://github.com/KeremTurgutlu/deeplearning/blob/master/Exploring%20Optimizers.ipynb -- optimizer
+https://github.com/NVIDIA/pix2pixHD --pix2pixHD
+https://github.com/NVIDIA/sentiment-discovery -- NVIDIA sentiment-discovery
+
+Python, Pytables, Keras
+https://kastnerkyle.github.io/posts/using-pytables-for-larger-than-ram-data-processing/
+http://www.philippsinger.info/?p=464
+https://stackoverflow.com/questions/42755820/how-to-use-return-sequences-option-and-timedistributed-layer-in-keras?rq=1 --Timedistributed layer
+
+Research trend summary
+https://nlp.stanford.edu/read/  -- stanford paper reading group
+http://www.abigailsee.com/2017/08/30/four-deep-learning-trends-from-acl-2017-part-1.html
+https://machinethoughts.wordpress.com/2017/09/01/deep-meaning-beyond-thought-vectors
+http://videolectures.net/deeplearning2017_montreal/ -- deeplearning summer school
+http://emnlp2017.net/main-program.html  -- emnlp2017 conference
+http://trendingarxiv.smerity.com  -- trend on latest ML paper
+http://newsletter.ruder.io --nlp news
+https://www.youtube.com/watch?v=rTawFwUvnLE -- Tutorial: What is wrong with convolutional neural nets
+https://arxiv.org/abs/1710.09829 -- dynamic routing between capsules
+https://openreview.net/pdf?id=HJWLfGWRb -- MATRIX CAPSULES WITH EM ROUTING
+https://www.youtube.com/watch?v=pPN8d0E3900&feature=youtu.be --capsule youtb tutorial
+https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf  -- nlps 2017 notes
+https://blog.statsbot.co/deep-learning-achievements-4c563e034257 -- 2017 trend
+https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017 -- 2017 nlp trends
+https://www.youtube.com/watch?v=QJLQBSQJEus --Reprogramming the Human Genome With Artificial Intelligence
+https://www.youtube.com/watch?v=YJnddoa8sHk --Deep Learning: Practice and Trends (NIPS 2017 Tutorial, parts I & II)
+https://github.com/hindupuravinash/nips2017 --Doc
+https://r2rt.com/recurrent-neural-networks-in-tensorflow-iii-variable-length-sequences.html --r2rt
+https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-nlp.md --handong1587
+https://handong1587.github.io/
+
+
+Deep learning on text summarization
+https://www.salesforce.com/products/einstein/ai-research/tl-dr-reinforced-model-abstractive-summarization/
+https://arxiv.org/pdf/1705.04304.pdf -- saleforce_paper: A Deep Reinforced Model for Abstractive Summarization
+https://arxiv.org/pdf/1602.06023.pdf -- Abstractive text summarization using sequence-to-sequence RNNs and beyond
+https://arxiv.org/pdf/1611.04230.pdf --SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents
+https://github.com/abisee/pointer-generator -- code for pointer-generator
+https://arxiv.org/pdf/1704.04368.pdf -- paper for pointer-generator
+https://web.stanford.edu/class/cs224n/reports/2762104.pdf -- an examination of CNNMail on neural summarization task
+https://github.com/abisee/cnn-dailymail/blob/master/make_datafiles.py  -- code to load & tokenize ann-dailymail
+https://github.com/thunlp/TensorFlow-Summarization -- code for text summarization using tensorflow
+https://www.quora.com/Has-Deep-Learning-been-applied-to-automatic-text-summarization-successfully -- quora answers
+https://arxiv.org/pdf/1603.06021.pdf -- a fast unified model for parsing and sentence understanding
+https://arxiv.org/pdf/1503.00075.pdf --Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks
+https://github.com/shumingma/SRB  --Code for "Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization"
+https://arxiv.org/pdf/1801.10198.pdf --GENERATING WIKIPEDIA BY SUMMARIZING LONG SEQUENCES
+
+Reinforcement learning
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+http://incompleteideas.net/sutton/book/bookdraft2017june.pdf
+https://github.com/dennybritz/reinforcement-learning
+https://sites.google.com/view/deep-rl-bootcamp/lectures -- Berkeley lectures
+https://sites.google.com/view/deep-rl-bootcamp/labs
+https://github.com/pmlg/deep-rl-bootcamp -- solutions
+https://github.com/Inoryy/Deep-RL-Bootcamp-Labs/
+https://github.com/aitorzip/deepbootcamp/tree/master/labs
+https://www.youtube.com/watch?v=2pWv7GOvuf0 --deepmind lectures
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/intro_RL.pdf --deepmind lecture notes
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+http://cs.stanford.edu/people/karpathy/reinforcejs/waterworld.html  -- reinforcejs
+https://gym.openai.com/docs/ -- gym
+https://www.reddit.com/r/reinforcementlearning/comments/7s8px9/deep_reinforcement_learning_practical_tips/  --reddit RL resources
+
+
+AI math:
+https://blog.evjang.com/2018/01/nf1.html --Eric Jang
+http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html --The Matrix Calculus You Need For Deep Learning by Jeremy Howard
+https://deeplearning4j.org/eigenvector#entropy -- math on key terms
+https://www.ics.uci.edu/~eppstein/161/python/ -- algorithm python code
+
+ML Debugging:
+https://medium.com/@yaroslavvb/fitting-larger-networks-into-memory-583e3c758ff9 --fitting larger networks into memory
+https://github.com/Thenerdstation/mltest/blob/master/mltest/mltest.py --MLTest: Machine learning testing framework
